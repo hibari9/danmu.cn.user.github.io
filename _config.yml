@@ -1,5 +1,4 @@
 theme: jekyll-theme-midnight
 name: 用户协议
 title: 用户协议
-header: false
-exclude: ["#header"]
+show_downloads: false
